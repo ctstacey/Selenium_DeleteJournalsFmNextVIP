@@ -5,7 +5,8 @@ Uses Selenium (in Python) to:
 - delete the specified _NextVIP_ Journal IDs one by one via the webpage interface
 - log the entire process to the console<sup>2</sup> (Includes failures and reasons; like timeouts etc.)
 
-<sup>1</sup> Users must enter their username and password. These are not stored.
+<sup>1</sup> Users must enter their username and password. These are not stored.<br>
+
 <sup>2</sup> Script designed such that output may be _piped_ to a file.
 
 # Usage
@@ -15,12 +16,12 @@ Uses Selenium (in Python) to:
 - Run the script the same way you run other python scripts
   (ie. `python Selenium_DeleteJournalsFmNextVIP.py` - or similar - at the command prompt)
 
-If the script fails to get a _webdriver_ you may have to download a newer driver version.
+If the script fails to get a _webdriver_ you may have to download a newer driver version.<br>
 See the _webdriver_ folder for instructions.
 
 # Why was this script written?
 
-I was asked to delete several thousand Journal IDs by hand.
+I was asked to delete several thousand Journal IDs by hand.<br>
 (ie. login and manually search for and delete each Journal ID)
 
 This was estimated to take around **two weeks full-time**.
