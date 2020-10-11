@@ -1,0 +1,33 @@
+
+browser   webdriver filename    version                     download date
+firefox   geckodriver.exe       geckodriver-v0.23.0-win64	  Jan 2019
+chrome
+
+
+go here, then
+https://www.seleniumhq.org/download/
+then look for
+"Selenium Client & WebDriver Language Bindings"
+  for Java, C#, Ruby, Python, Javascript 
+  (other language bindings exist, but these are the core ones supported by
+  the main selenium project hosted on GitHub.)
+and follow the "Download" and "API Docs" for your language.
+
+
+--------------------------------------------------------------------------
+selenium's main page (2019)
+https://www.seleniumhq.org/
+
+--------------------------------------------------------------------------
+all these links are Python links that are decendents of the one above
+(ie can be reached by following the link above)
+
+all geckodriver versions (for firefox), follow this link
+https://github.com/mozilla/geckodriver/releases
+
+all chromedriver versions, follow this link
+https://sites.google.com/a/chromium.org/chromedriver/downloads
+which leads you to a download page like this
+https://chromedriver.storage.googleapis.com/index.html?path=2.45/
+
+
