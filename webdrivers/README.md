@@ -1,5 +1,7 @@
 # Webdrivers
 
+- used by Selenium so it can (in the code) open and control the web browser
+
 ## Files
 
 - `geckodriver.exe` is for controlling Firefox (for 64-bit Windows - tested on Win8.1)
